@@ -4,6 +4,10 @@ Student sam 3. godine FOI-a (smjer Informacijski i poslovni sustavi), sa snažni
 
 Trenutno se fokusiram na učenje kroz praktične projekte, kolegije poput "Mreže računala", "Operacijski sustavi", "Upravljanje IT-om" i rad s alatima poput Linuxa, Wiresharka, SQL-a i Git-a.
 
+Pogledajte moj studentski projekt:  
+[pi2024-zadace-dsedlan22](https://github.com/dsedlan22/pi2024-zadace-dsedlan22)  
+➡Projekt iz kolegija **Programsko inženjerstvo** — zadaci objektno orijentiranog razvoja i strukture softverskog koda.
+
 📬 Možete me kontaktirati:  
 ✉️ david.sedlan@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/david-sedlan-6055a1215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
