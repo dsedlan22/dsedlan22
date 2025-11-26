@@ -10,4 +10,4 @@ Pogledajte moj studentski projekt:
 
 📬 Možete me kontaktirati:  
 ✉️ david.sedlan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/david-sedlan-6055a1215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+🔗 [LinkedIn](https://www.linkedin.com/in/davidsedlan) 
